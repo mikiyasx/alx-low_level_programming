@@ -1,9 +1,9 @@
-include "main.h"
+#include "main.h"
 
 /**
- * main - function
- * Return: 0
- */
+* main - function to print
+* Return: return 0;
+*/
 
 int main(void)
 {
@@ -17,6 +17,4 @@ int main(void)
 	_putchar('r');
 	_putchar('\n');
 	return (0);
-
 }
-
